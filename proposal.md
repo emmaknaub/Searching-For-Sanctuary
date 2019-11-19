@@ -12,14 +12,14 @@ This document is meant to guide you in structuring your group experience through
 ## The team
 _Who is working on this project?_
 
-
+Emma, Brittany, Fathima, and Weston
 
 
 
 ## The pitch
 _What's the basic pitch for the project? e.g. What kind of thing are you making? Does it have a genre within that overall category? Who is the audience? What are your starting premises?_
 
-
+We are creating an adventure-type "would you survive the apocalypse" interactive story on Twine.
 
 
 
@@ -29,12 +29,12 @@ _What's the basic pitch for the project? e.g. What kind of thing are you making?
 ### ... overall
 _What overall mode of collaboration are you planning to use: divide the work by project sections? by media types and expertise? by compromise and consensus all the way through? (See_ Writer/Designer _pages 113-114.)_
 
-
+We are planning on all working together as we go along, delegating small tasks where needed.
 
 ### ... in particular
 _Now add some specificity to that general plan: who will take what role, at what points? How will you communicate with each other?_
 
-
+We plan on doing a lot of the work as a group, but Britanny and Weston will specialize in the story writing, and Emma and Fathima will specialize in the coding/Twine creation. We have a group chat and google doc to communicate ideas with one another.
 
 
 <div class="alert alert-warning">
